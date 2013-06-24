@@ -1,0 +1,26 @@
+-What is the result of high level synthesis?
+-Draw a BDD (shortcuts)
+-Give an example of a factored form...
+-What optimization metric is used...
+-def kernel
+-def AIG
+-def "positive unate"
+-basic steps of Espresso
+
+-def prime
+-def minterm
+-def cube
+-def cover
+-def covering matrix
+-use Quine-McCluskey method
+-2d???
+
+-show the expansion of cube...
+-Count the number of literals
+-perform extraction of the best kernel
+-def matching
+-def covering
+-do matching and covering
+
+-retiming(see homework4)
+-create W and D matrices
