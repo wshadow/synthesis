@@ -25,3 +25,10 @@ Def. cover
 ----------
 Set of cubes, that covers all minterms of a function
 
+Def. cube-free
+--------------
+An expression is cube free, if no cube devides the expression evenly (e.g. no common literal)
+
+Def. kernel
+----------
+An expression that is cube free
