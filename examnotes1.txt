@@ -12,7 +12,7 @@
 -def cube
 -def cover
 -def covering matrix
--use Quine-McCluskey method
+-use Quine-McCluskey method -> see emdl13-ss13-05-v01-1p.pdf
 -2d???
 
 -show the expansion of cube...
